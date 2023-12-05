@@ -1,1 +1,1 @@
-# pwskills_practical
+# pwskills_SQL_Assignment-1
